@@ -1,10 +1,9 @@
-electron-pdf
+electron-pdf-fork
 ============
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Downloads][downloads-image]][downloads-url]
-[![js-standard-style][standard-image]][standard-url]
+[![Build Status](https://travis-ci.com/sambacha/electron-pdf.svg?branch=master)](https://travis-ci.com/sambacha/electron-pdf)
+
+
 
 A command line tool to generate PDF from URL, HTML or Markdown files with [electron](https://www.electronjs.org/).
 
