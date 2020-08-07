@@ -1,7 +1,7 @@
 {
-  "name": "electron-pdf",
-  "version": "7.0.0",
-  "description": "A command line tool to generate PDF from URL, HTML or Markdown files",
+  "name": "neutron-pdf",
+  "version": "7.1.0",
+  "description": "A command line tool to generate PDF from URL, HTML or Markdown files, electron-pdf fork",
   "main": "lib/index.js",
   "scripts": {
     "fix": "standard --fix",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fraserxu/electron-pdf.git"
+    "url": "https://github.com/sambacha/electron-pdf.git"
   },
   "keywords": [
     "electron",
@@ -27,11 +27,12 @@
     "markdown"
   ],
   "author": "Fraser Xu, Nate Good",
+  "contributors": "sam bacha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fraserxu/electron-pdf/issues"
+    "url": "https://github.com/sambacha/electron-pdf/issues"
   },
-  "homepage": "https://github.com/fraserxu/electron-pdf",
+  "homepage": "https://github.com/sambacha/electron-pdf",
   "devDependencies": {
     "ava": "^0.18.0",
     "electron-ava": "^0.3.0",
