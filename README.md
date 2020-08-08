@@ -1,15 +1,11 @@
-electron-pdf-fork
+# Neutron-PDF
+> electron-pdf f0rk
 ============
 
 [![Build Status](https://travis-ci.com/sambacha/electron-pdf.svg?branch=master)](https://travis-ci.com/sambacha/electron-pdf)
 
 
 
-A command line tool to generate PDF from URL, HTML or Markdown files with [electron](https://www.electronjs.org/).
-
-I have a blog post explain why [PDF Generation On The Web](https://fraserxu.me/2015/08/20/pdf-generation-on-the-web/)
-
-Production ready? See it in action for the [Myanmar Election](https://wiredcraft.com/blog/high-security-electron-js-application/)!
 
 Versioning
 -------
@@ -29,6 +25,8 @@ Install
 
 ```
 npm install electron-pdf
+or
+npm install neutron-pdf
 ```
 
 Note: If you're installing electron-pdf as root using the system level npm (vs a user-level install like with NVM) then you may need to run the following command instead:
