@@ -1,5 +1,5 @@
 {
-  "name": "electron-pdf",
+  "name": "electron-pdf2",
   "version": "7.0.0",
   "description": "A command line tool to generate PDF from URL, HTML or Markdown files",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fraserxu/electron-pdf.git"
+    "url": "https://github.com/sambacha/electron-pdf.git"
   },
   "keywords": [
     "electron",
@@ -45,6 +45,7 @@
     "@sentry/electron": "^1.2.0",
     "async": "^2.0.1",
     "debug": "^2.3.2",
+    "dotenv": "^8.2.0",
     "electron": "^7.1.9",
     "eventemitter2": "^2.1.3",
     "github-markdown-css": "^2.0.9",
